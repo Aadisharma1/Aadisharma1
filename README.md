@@ -1,116 +1,105 @@
-
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · aadisharma1</sub></p>
-<h1>Aadi Sharma</h1>
-<h2>Frontend or full-stack engineer</h2>
+<p><sub>AN EDITORIAL PROFILE · AADISHARMA1</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&label=Aadi%20Sharma&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&label=Aadi%20Sharma&mode=dark" width="100%" alt="Aadi Sharma cinematic profile scene" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&label=Aadi%20Sharma&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&label=Aadi%20Sharma&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Aadi Sharma animated ASCII name" />
+</picture>
+
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
 <p>just fiddlin around</p>
-<p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/aadisharma1">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/174692924?u=faea774412a0f15580498814dbc41ac90cc380da&amp;v=4" width="180" alt="Aadi Sharma GitHub avatar" />
-</td>
-</tr>
-</table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<table width="100%">
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · Jupyter Notebook · HTML</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>32 repositories · 2 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>207 contributions · 47 active days</p></td>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>just fiddlin around</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · Python</sub></p><p><strong>32</strong> repos<br /><strong>207</strong> contributions<br /><strong>2</strong> followers</p></td>
 </tr>
 </table>
 
-<p><sub>just fiddlin around</sub></p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<h2>Proof at a glance</h2>
+<h2>In the current cut</h2>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>32</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>207</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Aadi Sharma GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&items=Python%3A%3ACurrent%20focus%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue%7CHTML%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&items=Python%3A%3ACurrent%20focus%7CJupyter%20Notebook%3A%3AIn%20the%20active%20build%20queue%7CHTML%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Aadi Sharma cinematic highlights" />
 </picture>
-</p>
 
-<h2>Selected work</h2>
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&repos=aadisharma1%2FASD-FMRI-Classification%2Caadisharma1%2FASD-V2%2Caadisharma1%2Ffhe-vector-tenseal%2Caadisharma1%2FSumcheck-zkml&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&repos=aadisharma1%2FASD-FMRI-Classification%2Caadisharma1%2FASD-V2%2Caadisharma1%2Ffhe-vector-tenseal%2Caadisharma1%2FSumcheck-zkml&v=recruiter-projects-1&mode=dark" width="100%" alt="Aadi Sharma selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="Aadi Sharma animated technology stack" />
 </picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Aadisharma1/ASD-FMRI-Classification">ASD-FMRI-Classification</a></h3>
-<p>Code for the paper &quot;Beyond Accuracy: A Methodological Roadmap...&quot;. This repository provides a PyTorch pipeline for training and evaluating a 3D CNN on</p>
-<p><sub>Jupyter Notebook · ⭐ 2 · 🍴 2</sub></p>
-<p><a href="https://github.com/Aadisharma1/ASD-FMRI-Classification">Read the repository →</a></p>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Aadisharma1/ASD-V2">ASD-V2</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Aadisharma1/fhe-vector-tenseal">fhe-vector-tenseal</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Aadisharma1/Sumcheck-zkml">Sumcheck-zkml</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<p align="center"><sub>Python · Jupyter Notebook · HTML · TypeScript · CSS · JavaScript · Shell · Java · tools chosen for the work, not the trend</sub></p>
 
-<h2>Technical toolkit</h2>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p align="center">
+<h2>Featured reel</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Aadi Sharma technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&repos=aadisharma1%2FASD-FMRI-Classification%2Caadisharma1%2FASD-V2%2Caadisharma1%2Ffhe-vector-tenseal%2Caadisharma1%2FSumcheck-zkml&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&repos=aadisharma1%2FASD-FMRI-Classification%2Caadisharma1%2FASD-V2%2Caadisharma1%2Ffhe-vector-tenseal%2Caadisharma1%2FSumcheck-zkml&v=cinematic-projects-2&mode=dark" width="100%" alt="Aadi Sharma cinematic project reel" />
 </picture>
-</p>
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>40% of public code</sub></td>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>36% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>12% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>2% of public code</sub></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Aadisharma1/ASD-FMRI-Classification">ASD-FMRI-Classification</a></strong></p><p>Code for the paper &quot;Beyond Accuracy: A Methodological Roadmap...&quot;. This repository provides a PyTorch pipeline for training and evaluating a 3D CNN on fMRI data</p><p><sub>Jupyter Notebook · ⭐ 2</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Aadisharma1/ASD-V2">ASD-V2</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Aadisharma1/fhe-vector-tenseal">fhe-vector-tenseal</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/Aadisharma1/Sumcheck-zkml">Sumcheck-zkml</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>C++ · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p align="center">
+<p align="center"><sub>32 public projects · 2 stars · 207 contributions · 2 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=aadisharma1&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Aadi Sharma contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Aadi Sharma contribution snake" />
 </picture>
-</p>
 
-<hr />
+<h2>Play the next move</h2>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/aadisharma1">GitHub</a></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="Aadi Sharma animated chess replay" />
+</picture>
 
-<p align="center"><sub>Aadi Sharma · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=aadisharma1&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174692924%3Fu%3Dfaea774412a0f15580498814dbc41ac90cc380da%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="Aadi Sharma contact links" />
+</picture>
+
+<p><a href="https://github.com/aadisharma1">GitHub</a></p>
+
