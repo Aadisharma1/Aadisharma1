@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/research-matrix.svg" width="100%" alt="Active Research Labs & Collaborations" />
+  <img src="./assets/research-matrix-v2.svg" width="100%" alt="Active Research Labs & Collaborations" />
 </p>
 
 <p align="center">
