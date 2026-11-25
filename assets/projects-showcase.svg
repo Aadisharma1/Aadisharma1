@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 332" width="900" height="332" role="img" aria-label="Flagship Engineering Systems">
+  <defs>
+    <linearGradient id="projBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e17"/>
+      <stop offset="100%" stop-color="#0e1422"/>
+    </linearGradient>
+    <filter id="projGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Dual-Theme Dark Header Pill -->
+  <rect x="0.5" y="0.5" width="899" height="30" rx="8" fill="#090d16" stroke="#1e293b"/>
+  <circle cx="16" cy="15.5" r="3" fill="#f59e0b"/>
+  <text x="28" y="19.5" fill="#38bdf8" font-size="10.5" font-weight="700" letter-spacing="1.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">02 // ENGINEERED SYSTEMS &amp; INFRASTRUCTURE BUILDS</text>
+  <text x="884" y="19.5" fill="#64748b" font-size="9.5" text-anchor="end" letter-spacing="1.2" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">PRODUCTION · SIMULATION · CRYPTO</text>
+
+  <!-- PROJECT 1: VORTEX-GNC -->
+  <g transform="translate(0, 42)">
+    <rect x="0.5" y="0.5" width="441" height="136" rx="11" fill="url(#projBg)" stroke="#1e293b"/>
+    <text x="18" y="26" fill="#f59e0b" font-size="13.5" font-weight="700" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">VORTEX-GNC</text>
+    <text x="128" y="26" fill="#475569" font-size="10" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">// 6-DOF EO/IR GUIDANCE TESTBED</text>
+    <text x="18" y="48" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">Aerodynamic 6-DoF missile guidance &amp; spatiotemporal entropy-</text>
+    <text x="18" y="65" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">gated EO/IR seeker simulator with live Three.js telemetry.</text>
+    <text x="18" y="88" fill="#34d399" font-size="10.2" font-weight="600" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">★ 74% paired Monte Carlo win rate vs. centroid seekers</text>
+    <text x="18" y="114" fill="#64748b" font-size="9.5" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">PYTHON  ·  ECCM  ·  THREE.JS  ·  MONTE CARLO</text>
+
+    <g transform="translate(384, 68)">
+      <circle cx="0" cy="0" r="24" fill="none" stroke="#1e293b" stroke-width="1"/>
+      <g>
+        <circle cx="0" cy="0" r="19" fill="none" stroke="#f59e0b" stroke-width="1.2" stroke-dasharray="7 6"/>
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/>
+      </g>
+      <line x1="-26" y1="0" x2="-10" y2="0" stroke="#f59e0b" stroke-width="1"/>
+      <line x1="10" y1="0" x2="26" y2="0" stroke="#f59e0b" stroke-width="1"/>
+      <line x1="0" y1="-26" x2="0" y2="-10" stroke="#f59e0b" stroke-width="1"/>
+      <line x1="0" y1="10" x2="0" y2="26" stroke="#f59e0b" stroke-width="1"/>
+      <circle cx="0" cy="0" r="3" fill="#f59e0b" filter="url(#projGlow)">
+        <animate attributeName="r" values="2.2;4.5;2.2" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- PROJECT 2: CIPHERTRAIN -->
+  <g transform="translate(458, 42)">
+    <rect x="0.5" y="0.5" width="441" height="136" rx="11" fill="url(#projBg)" stroke="#1e293b"/>
+    <text x="18" y="26" fill="#a78bfa" font-size="13.5" font-weight="700" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">CIPHERTRAIN</text>
+    <text x="132" y="26" fill="#475569" font-size="10" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">// CKKS NOISE-AWARE TRAINING</text>
+    <text x="18" y="48" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">Differentiable FHE noise simulator with learnable Chebyshev</text>
+    <text x="18" y="65" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">polynomial activations &amp; automatic bootstrapping gates.</text>
+    <text x="18" y="88" fill="#a78bfa" font-size="10.2" font-weight="600" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">★ Rapid encrypted ML prototyping without full FHE overhead</text>
+    <text x="18" y="114" fill="#64748b" font-size="9.5" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">PYTORCH  ·  TENSEAL  ·  CKKS  ·  CHEBYSHEV</text>
+
+    <!-- Cross-browser SMIL Noise Budget Gauge -->
+    <g transform="translate(332, 102)">
+      <text x="0" y="-5" fill="#64748b" font-size="7.5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">NOISE BUDGET // BOOT</text>
+      <rect x="0" y="0" width="90" height="12" rx="3" fill="#070a10" stroke="#1e293b"/>
+      <rect x="2" y="2" width="46" height="8" rx="2" fill="#34d399" filter="url(#projGlow)">
+        <animate attributeName="width" values="14;68;18;14" keyTimes="0;0.65;0.82;1" dur="3.8s" repeatCount="indefinite"/>
+        <animate attributeName="fill" values="#34d399;#f59e0b;#a78bfa;#34d399" keyTimes="0;0.65;0.82;1" dur="3.8s" repeatCount="indefinite"/>
+      </rect>
+      <line x1="72" y1="-2" x2="72" y2="14" stroke="#ef4444" stroke-width="1" stroke-dasharray="2 1"/>
+    </g>
+  </g>
+
+  <!-- PROJECT 3: LEDGERX -->
+  <g transform="translate(0, 192)">
+    <rect x="0.5" y="0.5" width="441" height="136" rx="11" fill="url(#projBg)" stroke="#1e293b"/>
+    <text x="18" y="26" fill="#38bdf8" font-size="13.5" font-weight="700" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">LEDGERX</text>
+    <text x="98" y="26" fill="#475569" font-size="10" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">// HIGH-CONCURRENCY ACID ENGINE</text>
+    <text x="18" y="48" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">Multi-threaded transaction engine enforcing PostgreSQL row-level</text>
+    <text x="18" y="65" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">ACID locks &amp; idempotency guarantees under parallel contention.</text>
+    <text x="18" y="88" fill="#38bdf8" font-size="10.2" font-weight="600" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">★ Zero double-spend races under concurrent stress loads</text>
+    <text x="18" y="114" fill="#64748b" font-size="9.5" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">POSTGRESQL  ·  FASTAPI  ·  DOCKER  ·  ACID LOCKS</text>
+
+    <!-- Properly anchored Multi-Thread Transaction Lanes -->
+    <g transform="translate(336, 92)">
+      <line x1="0" y1="4" x2="62" y2="14" stroke="#1e3a5f" stroke-width="1.2"/>
+      <line x1="0" y1="14" x2="62" y2="14" stroke="#1e3a5f" stroke-width="1.2"/>
+      <line x1="0" y1="24" x2="62" y2="14" stroke="#1e3a5f" stroke-width="1.2"/>
+      <rect x="62" y="4" width="24" height="20" rx="4" fill="#0d1e33" stroke="#38bdf8" stroke-width="1.2"/>
+      <text x="74" y="17" fill="#38bdf8" font-size="7.5" font-weight="700" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">ACID</text>
+      <g transform="translate(0,4)"><circle cx="0" cy="0" r="2.2" fill="#38bdf8"><animateMotion dur="1.5s" repeatCount="indefinite" path="M 0 0 L 62 10"/></circle></g>
+      <g transform="translate(0,14)"><circle cx="0" cy="0" r="2.2" fill="#34d399"><animateMotion dur="1.5s" begin="0.5s" repeatCount="indefinite" path="M 0 0 L 62 0"/></circle></g>
+      <g transform="translate(0,24)"><circle cx="0" cy="0" r="2.2" fill="#a78bfa"><animateMotion dur="1.5s" begin="1.0s" repeatCount="indefinite" path="M 0 0 L 62 -10"/></circle></g>
+    </g>
+  </g>
+
+  <!-- PROJECT 4: ZK-SAFEGUARD -->
+  <g transform="translate(458, 192)">
+    <rect x="0.5" y="0.5" width="441" height="136" rx="11" fill="url(#projBg)" stroke="#1e293b"/>
+    <text x="18" y="26" fill="#34d399" font-size="13.5" font-weight="700" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">ZK-SAFEGUARD</text>
+    <text x="142" y="26" fill="#475569" font-size="10" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">// VERIFIABLE PRIVATE INFERENCE</text>
+    <text x="18" y="48" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">Cryptographic inference backend pairing ZK-SNARK execution</text>
+    <text x="18" y="65" fill="#cbd5e1" font-size="11.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" class="sans">proofs with TenSEAL CKKS &amp; 4-bit NormalFloat quantization.</text>
+    <text x="18" y="88" fill="#34d399" font-size="10.2" font-weight="600" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">★ 12+ tok/s on NVIDIA T4 despite proof verification overhead</text>
+    <text x="18" y="114" fill="#64748b" font-size="9.5" letter-spacing="0.8" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">ZK-SNARKS  ·  CKKS  ·  NF4 QUANT  ·  PYTORCH</text>
+
+    <g transform="translate(394, 102)">
+      <circle cx="0" cy="0" r="16" fill="#070a10" stroke="#14493b" stroke-width="1.2"/>
+      <circle cx="0" cy="0" r="16" fill="none" stroke="#34d399" stroke-width="1.8" stroke-dasharray="28 74" filter="url(#projGlow)">
+        <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M -5 0 L -1.5 3.5 L 6 -4" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

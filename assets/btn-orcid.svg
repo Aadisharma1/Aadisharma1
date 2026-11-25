@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214 42" width="214" height="42" role="img" aria-label="ORCID">
+  <defs>
+    <linearGradient id="btnSheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="btnClip">
+      <rect x="0.5" y="0.5" width="213" height="41" rx="8"/>
+    </clipPath>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace; }
+  </style>
+  <g clip-path="url(#btnClip)">
+    <rect width="214" height="42" fill="#0b101b"/>
+    <rect x="-80" y="0" width="70" height="42" fill="url(#btnSheen)">
+      <animate attributeName="x" values="-80;254" dur="4.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0.5" y="8" width="3" height="26" rx="1.5" fill="#a78bfa"/>
+    <circle cx="18" cy="21" r="3" fill="#a78bfa">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="30" y="18" fill="#f8fafc" font-size="10.5" font-weight="700" letter-spacing="1.1" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">ORCID</text>
+    <text x="30" y="32" fill="#94a3b8" font-size="9" letter-spacing="0.5" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">0009-0003-9724-0552</text>
+    <text x="200" y="25" fill="#a78bfa" font-size="12" text-anchor="end" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" class="mono">↗</text>
+  </g>
+  <rect x="0.5" y="0.5" width="213" height="41" rx="8" fill="none" stroke="#1e293b"/>
+</svg>
